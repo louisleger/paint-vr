@@ -1,0 +1,4 @@
+x,y,x_end,y_end,z_translation,weight,text,teta,orientation
+317,290,684,506,50,25,clear,7,LEFT
+317,590,684,806,50,25,menu,7,LEFT
+-50,457,184,640,50,25,subject,7,LEFT
