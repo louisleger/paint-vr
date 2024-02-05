@@ -1,10 +1,10 @@
-# scribbles-in-vr
-*my first major code project, posted here for archive purposes.*
+# paint-vr
 
+This project was done with a good highschool friend of mine Ixil Miniussi, who uploaded this project to github that we worked on for several months from January to June 2019. 
 [Demonstration Video](https://www.youtube.com/embed/_4Z0W0Z2gyc).
 
 # What is it
-Scribbles in VR is a homemade VR pictionary clone. The goal is for players to guess, by looking on the laptop screen, what the painter is drawing (inside the VR world.)
+Paint VR is a homemade VR pictionary clone. The goal is for players to guess, by looking on the laptop screen, what the painter is drawing (inside the VR world.)
 This is made doubly funny by the sometimes inacurrate tracking of the player's head and paintbrush. However, depsite being inaccurate, the tracking is still the impressive part of this project.
 
 ## Context
