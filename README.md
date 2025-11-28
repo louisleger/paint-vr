@@ -1,6 +1,6 @@
 # paint-vr
 
-This project was done with a good highschool friend of mine Ixil Miniussi, who uploaded this project to github that we worked on for several months from January to June 2019. 
+This project was done with a good highschool friend of mine Ixil Miniussi, who uploaded it to github. We worked on this project for several months from January to June 2019. 
 [Demonstration Video](https://www.youtube.com/embed/_4Z0W0Z2gyc).
 
 # What is it
